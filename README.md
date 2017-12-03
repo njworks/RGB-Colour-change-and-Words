@@ -16,6 +16,7 @@ A “Reset” button at the top of the application which, if
 pressed, will result in all text fields being emptied and the initial
 welcome message being displayed. 
 <br />
+ <br />
 Ex2: <br />
 Application allows the user to store a list of words. 
 allow the user to  <br />
